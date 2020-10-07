@@ -1,1 +1,15 @@
 # UWEE560
+
+| Date  | Topic                                                                                                                                                                                                                                 |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10/5  | Physics of DC Machines – Theory of Operation, Power Electronics Device Physics Overview                                                                                                                                               |
+| 10/12 | Physics of DC Machines –Theory of Operation,Dynamics of DC Machines –Modeling, Root Locus Methods                                                                                                                                     |
+| 10/19 | DC Machine Drives, Brushless DC (BLDC) Machines, DC Machines–Current Regulation, Speed Control                                                                                                                                        |
+| 10/26 | Introduction to AC Machines,Induction Machine Per Phase Equivalent Circuit, Speed-Torque Curve of Induction Machines, Per Unit Representation                                                                                         |
+| 11/2  | Introduction to AC Machine Drives –VFDs, V/Hz Control of Induction Machines,Pulse Width Modulation Techniques                                                                                                                         |
+| 11/9  | Coupled Circuit Modeling of AC Machines, Winding Functions, AC Machine Inductance Calculations, Space Harmonics in AC Machines, Flux Linkages in 3D Machines, Modeling of 3D Machines                                                 |
+| 11/16 | Complex Vector Modeling of AC Machines, Coordinate Transformations, dq Modeling of AC Machines, dq Equivalent Circuits, Block Diagrams of AC Machines, Power Flow in 3D Machines, TorqueProduction in 3D Machines                     |
+| 11/23 | Physical Interpretation of Torque Production in 3D Machines, dq Theory Applied to Salient Pole Machines, Torque Production in Salient Pole Machines, Extension of dq Theory Applied to PM Machines, Introduction to Field Orientation |
+| 11/30 | Steady State and Dynamic Field Orientation of Induction Machines, Direct FOC, Indirect FOC, Current Regulation in AC Machines, Switched Reluctance Motors                                                                             |
+| 12/7  | Switched Reluctance Motors cont., Course Review                                                                                                                                                                                       |
+| 12/14 | Final Project                                                                                                                                                                                                                         |
