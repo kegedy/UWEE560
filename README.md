@@ -1,7 +1,7 @@
 # UWEE560
 
 | Date  | Topic                                                                                                                                                                                                                                 |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ----- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 10/5  | Physics of DC Machines – Theory of Operation, Power Electronics Device Physics Overview                                                                                                                                               |
 | 10/12 | Physics of DC Machines –Theory of Operation,Dynamics of DC Machines –Modeling, Root Locus Methods                                                                                                                                     |
 | 10/19 | DC Machine Drives, Brushless DC (BLDC) Machines, DC Machines–Current Regulation, Speed Control                                                                                                                                        |
